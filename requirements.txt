@@ -3,5 +3,6 @@ numpy
 scipy
 seaborn
 scikit-learn
+imblearn
 
 -e .
