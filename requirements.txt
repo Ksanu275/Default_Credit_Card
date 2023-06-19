@@ -2,4 +2,6 @@ pandas
 numpy
 scipy
 seaborn
+scikit-learn
+
 -e .
